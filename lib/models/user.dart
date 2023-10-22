@@ -26,11 +26,6 @@ List<User> friends = [
     intro: "아버지라 불러도 되겠습니까",
   ),
   User(
-    backgroundImage: "${_urlPrefix}_man.jpg",
-    name: "홍길동",
-    intro: "아버지라 불러도 되겠습니까",
-  ),
-  User(
     backgroundImage: "${_urlPrefix}_woman_1.jpg",
     name: "정도전",
     intro: "앞이 보이겠습니까",
